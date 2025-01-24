@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| Roomit  | https://stake.roomit.xyz  | https://x.com/roomit_xyz  | Indonesia | https://github.com/roomit-xyz   |  admin@roomit.xyz  |  @luneareth |  https://ping.pub/atomone/tx/B037BD9A79D09EFAE52B8DFC300A38EDD06F7A48E29BCD41BA05FA1F9D59A334 |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
